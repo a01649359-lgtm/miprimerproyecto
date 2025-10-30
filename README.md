@@ -10,7 +10,7 @@ Manual para correr el código:
 8) Verás en la terminal los datos impresos que se especifican en el código.
 
 
-/n-CÓDIGO DATOS SPOTIFY
+-CÓDIGO DATOS SPOTIFY
 Manual para correr el código:
 1) Debes tener instalado Python para poder correr el código. Puedes instalarla desde internet. 
 2) Debes tener las librerías necesarias, como pandas, matplotlib, seaborn. Puedes instalarlas en la terminal de tu computadora una vez que instales Python.

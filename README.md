@@ -12,7 +12,7 @@ Manual para correr el código:
 
 
 
--CÓDIGO DATOS SPOTIFY
+-CÓDIGO DATOS TITANIC
 Manual para correr el código:
 1) Debes tener instalado Python para poder correr el código. Puedes instalarla desde internet. 
 2) Debes tener las librerías necesarias, como pandas, matplotlib, seaborn. Puedes instalarlas en la terminal de tu computadora una vez que instales Python.
